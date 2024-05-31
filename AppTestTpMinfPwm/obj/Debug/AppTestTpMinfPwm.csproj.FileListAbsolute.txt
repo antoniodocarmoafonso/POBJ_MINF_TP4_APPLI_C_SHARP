@@ -1,0 +1,57 @@
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\bin\Debug\AppCsTp2Pwm.exe.config
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\bin\Debug\AppCsTp2Pwm.exe
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\bin\Debug\AppCsTp2Pwm.pdb
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppCsTp2Pwm.Form1.resources
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppCsTp2Pwm.Properties.Resources.resources
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppTestTpMinfPwm.csproj.GenerateResource.cache
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppTestTpMinfPwm.csproj.CoreCompileInputs.cache
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppCsTp2Pwm.exe
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppCsTp2Pwm.pdb
+C:\Users\sercastoldi\source\repos\AppCS_TP4et5_GenUsbEtIp\obj\Debug\AppTestTpMinfPwm.csprojAssemblyReference.cache
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe.config
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.pdb
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppCsTp2Pwm.Form1.resources
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.Properties.Resources.resources
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.GenerateResource.cache
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.CoreCompileInputs.cache
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.exe
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.pdb
+C:\Users\sercastoldi\source\repos\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csprojAssemblyReference.cache
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe.config
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.pdb
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.AssemblyReference.cache
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppCsTp2Pwm.Form1.resources
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.Properties.Resources.resources
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.GenerateResource.cache
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.CoreCompileInputs.cache
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.exe
+C:\Users\jeraffolter\Education Vaud\Melissa Marie Perret - RAPPORT SLO2\MINF\TP4\Luis&Jeremy\git\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.pdb
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe.config
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.pdb
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.AssemblyReference.cache
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.SuggestedBindingRedirects.cache
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppCsTp2Pwm.Form1.resources
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.Properties.Resources.resources
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.GenerateResource.cache
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.CoreCompileInputs.cache
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.exe
+H:\POBJ\TP4_appli\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.pdb
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.AssemblyReference.cache
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.SuggestedBindingRedirects.cache
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.exe
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.pdb
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe.config
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.exe
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\bin\Debug\AppTestTpMinfPwm.pdb
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppCsTp2Pwm.Form1.resources
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.Properties.Resources.resources
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.GenerateResource.cache
+C:\Users\dambignens\Desktop\example\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.CoreCompileInputs.cache
+C:\Users\antdocarmo\Downloads\AppTestTpMinfPwm\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.AssemblyReference.cache
+C:\Users\antdocarmo\Downloads\AppTestTpMinfPwm\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.csproj.SuggestedBindingRedirects.cache
+C:\Users\antdocarmo\Downloads\AppTestTpMinfPwm\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.exe
+C:\Users\antdocarmo\Downloads\AppTestTpMinfPwm\AppTestTpMinfPwm\obj\Debug\AppTestTpMinfPwm.pdb
